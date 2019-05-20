@@ -7,8 +7,8 @@
 <jsp:include page="./temp/css_meta.jsp"></jsp:include>
 </head>
 
-<body id="page-top">
 <jsp:include page="./temp/header_nav.jsp"></jsp:include>
+<body id="page-top">
  
 
   <!-- Header -->
